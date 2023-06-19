@@ -16,6 +16,6 @@
      
 3. Run the development server
 
-     ### `nodenom`
+     ### `nodemon`
 
 
