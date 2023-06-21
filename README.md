@@ -14,8 +14,8 @@
 
      ### `MONGO_URI=mongodb://localhost:27017/todoapp`
      
- 1. Run the development server
+3. Run the development server
 
-     ### `nodenom`
+     ### `nodemon`
 
 
